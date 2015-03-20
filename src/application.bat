@@ -1,4 +1,4 @@
-### application.bat - 2015 - HURTAUD ###
+### application.bat - 2015 - HURTAUD - Pasquier Rodolphe ###
 
 version ="2"
 build_hour ="11H00"
