@@ -1,5 +1,9 @@
 ### application.bat - 2015 - HURTAUD ###
-echo "Version 1.2";
+
+version ="2"
+build_hour ="11H00"
+
+echo "version${version}";
 echo "Copyright company - 2015";
-echo "Build : 10:00";
+echo "Buil${build_hour";
 pause;
